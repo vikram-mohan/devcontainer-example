@@ -1,0 +1,8 @@
+{
+    "name": "demo-devcontainer",
+    "matlabConfigurationId" : "matlabEmbeddedMW",
+    "matlabImage" : "docker.io/mathworks/matlab:latest",
+    "matlabRoot": " /opt/matlab/R2024b",
+    "cpu": "2c",
+    "memory": "6g"
+}
