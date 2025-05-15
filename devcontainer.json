@@ -2,7 +2,7 @@
     "name": "demo-devcontainer",
     "matlabConfigurationId" : "matlabEmbeddedMW",
     "matlabImage" : "mw-docker.repositories.mathworks.com/mathworks/matlab:latest",
-    "matlabRoot": "/opt/matlab/R2024b",
+    "matlabRoot": "/opt/matlab/R2025a",
     "cpu": "2c",
     "memory": "6g"
 }
